@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mortyRickandPuga/static/css/main.87336a35.chunk.css",
+    "main.js": "/mortyRickandPuga/static/js/main.c3254f8f.chunk.js",
+    "main.js.map": "/mortyRickandPuga/static/js/main.c3254f8f.chunk.js.map",
+    "runtime-main.js": "/mortyRickandPuga/static/js/runtime-main.18a51298.js",
+    "runtime-main.js.map": "/mortyRickandPuga/static/js/runtime-main.18a51298.js.map",
+    "static/js/2.d31d281d.chunk.js": "/mortyRickandPuga/static/js/2.d31d281d.chunk.js",
+    "static/js/2.d31d281d.chunk.js.map": "/mortyRickandPuga/static/js/2.d31d281d.chunk.js.map",
+    "index.html": "/mortyRickandPuga/index.html",
+    "static/css/main.87336a35.chunk.css.map": "/mortyRickandPuga/static/css/main.87336a35.chunk.css.map",
+    "static/js/2.d31d281d.chunk.js.LICENSE.txt": "/mortyRickandPuga/static/js/2.d31d281d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18a51298.js",
+    "static/js/2.d31d281d.chunk.js",
+    "static/css/main.87336a35.chunk.css",
+    "static/js/main.c3254f8f.chunk.js"
+  ]
+}
