@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-Demo in https://puga613.github.io/mortyRickandPuga/
+Al entrar a la pagina dar click en el boton que dice "Personajes" en la esquina superior derecha.
+Demo in https://puga613.github.io/mortyRickandPuga
+
 
 ## Available Scripts
 
