@@ -1,0 +1,94 @@
+.div1 {
+  top: 60px;
+  margin: 1.3vw;
+  margin-top: 1vw;
+  width: auto;
+  float: left;
+  margin: 1vw
+}
+
+.grid-item{
+  font-size: 1.2vw;
+  display: block;
+  padding: 20px;
+  top: 59px;
+  position: relative;
+  width: 78vw;
+  margin: auto;
+}
+
+.property-card {
+  
+  text-align:center;
+  height: 20em;
+  width: 20em;
+  position: relative;
+  -webkit-transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  -o-transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  border-radius: 16px;
+  overflow: hidden;
+  background-color: #d2e4d8;
+  box-shadow: 1px 2px 5px rgb(0, 0, 0, 0.3);
+}
+
+.property-card:hover .property-image {
+  border-radius: 100%;
+  height: 3.5em;
+  width: 3.5em;
+  top: 1.5em;
+  -webkit-transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  -o-transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  
+}
+
+.property-card:hover .property-description {
+  color: #ffffff;
+  border-radius: 16px;
+  background-color: #344f59;
+  height: 12em;
+  width: 18em;
+  position: absolute;
+  bottom: 0em;
+  -webkit-transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  -o-transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  padding: 0.5em 1em;
+  text-align: left;
+}
+
+
+
+.property-description {
+  -webkit-transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  -o-transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  height: 0em;
+  padding: 0px 1em;
+  color: transparent;
+  text-align: left;
+  
+}
+.property-image {
+  border-radius: 100%;
+  height: 10em;
+  width: 10em;
+  position: Absolute;
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  -o-transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+@media only screen and (max-width: 590px) {
+  .div1{
+    height: 50%;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .center {
+    height: 70vh;
+  }
+}
